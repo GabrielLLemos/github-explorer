@@ -1,0 +1,27 @@
+.projects li {
+    display: flex;
+    background-color: white;
+    border: 3px ridge rgb(104, 94, 94);
+    height: 100px;
+    padding: 2%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.projects-info {
+    height: 90px;
+}
+
+.projects-icon {
+    font-size: 40px;
+}
+
+.projects-description {
+    height: 45px;
+    color: rgb(136, 136, 136);
+}
+
+.projects-last-changes {
+    height: 30px;
+    color: rgb(136, 136, 136);
+}
